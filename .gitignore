@@ -1,0 +1,7 @@
+# Folders
+node_modules/
+/.vscode
+src/public/images/product/
+#Archivo oculto de mac os
+*.DS_Store
+operations.log

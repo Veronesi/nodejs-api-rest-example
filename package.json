@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-api-rest-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Veronesi/nodejs-api-rest-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Veronesi/nodejs-api-rest-example/issues"
+  },
+  "homepage": "https://github.com/Veronesi/nodejs-api-rest-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
